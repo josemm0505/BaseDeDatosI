@@ -9,3 +9,15 @@ Uno de los aspectos fundamentales del sistema será la implementación de un sis
 La interfaz de usuario del sistema de gestión de documentos se diseñará con un enfoque en la usabilidad y la experiencia del usuario. Se priorizará la navegación intuitiva, la búsqueda eficiente de documentos y la capacidad de previsualización para agilizar la toma de decisiones. Además, se explorarán opciones para integrar herramientas de colaboración en tiempo real, lo que permitirá a los equipos trabajar de manera conjunta en los documentos sin problemas, independientemente de su ubicación geográfica.
 
 En resumen, el proyecto de desarrollo de este sistema de gestión de documentos respaldado por una sólida base de datos tiene como objetivo revolucionar la forma en que las organizaciones manejan y acceden a sus recursos de información. Al proporcionar una solución integral para los desafíos de la gestión de documentos, se espera optimizar la productividad, reducir el tiempo dedicado a tareas administrativas y fomentar la colaboración efectiva en un entorno empresarial cada vez más dinámico y digitalizado.
+
+OBJETIVO GENERAL 
+
+El objetivo general de este proyecto es diseñar, desarrollar e implementar un sistema de gestión de documentos respaldado por una base de datos avanzada, con el propósito de transformar la manera en que las organizaciones administran y acceden a sus recursos de información. A través de una interfaz intuitiva y funcional, este sistema busca optimizar la eficiencia operativa, minimizar errores y potenciar la colaboración dentro de un entorno empresarial digital y dinámico. La implementación de permisos, la trazabilidad de acciones y la integración de herramientas de colaboración en tiempo real serán elementos esenciales para garantizar la seguridad, la confidencialidad y la agilidad en la gestión documental. Con esto, se aspira a elevar la productividad y reducir el tiempo invertido en tareas administrativas, generando un impacto positivo en la eficacia global de la organización.
+
+OBJETIVOS ESPECÍFICOS
+
+*Definir los requisitos funcionales y técnicos del sistema de gestión de documentos, considerando la eficiencia en el almacenamiento y recuperación de documentos.
+
+*Seleccionar y configurar la tecnología de base de datos avanzada que mejor se adapte a las necesidades de almacenamiento, escalabilidad y seguridad del sistema.
+
+*Diseñar la arquitectura del sistema de gestión de documentos, incluyendo la estructura de la base de datos y la interfaz de usuario intuitiva.
